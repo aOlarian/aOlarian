@@ -18,6 +18,7 @@ AI Systems & Security Architect. CTO at Verobots. I build AI agents, enterprise 
 | [Offline Playroom](https://github.com/aOlarian/offline-playroom) | Play 28 browser games offline. | [Guide](https://olarian.com/free-projects/offline-playroom) |
 | [NexDrive](https://github.com/aOlarian/nex-drive) | Queue Google Drive transfers on Windows. | [Guide](https://olarian.com/free-projects/nex-drive) |
 | [NexMail](https://github.com/aOlarian/nex-mail) | Use your existing IMAP and SMTP accounts on Windows. | [Guide](https://olarian.com/free-projects/nex-mail) |
+| [Archivatore](https://github.com/aOlarian/archivatore) | Encapsulate and archive multiple folders in parallel on Windows. | [Guide](https://olarian.com/free-projects/archivatore) |
 
 [Browse all projects](https://olarian.com/free-projects)
 
